@@ -1,11 +1,10 @@
 Heroes of Pymoli Analysis Insights:
 
 1. Males make more purchases than females (83.6% of purchases)
-
 2. People between the ages of 20-24 make up the largest percent of players (44.8%). People between the ages of 15-29 make up 77% of players.
-
 3. The highest total purchase value from any player is $18.96. The lowest total purchase value from any player is $1.00.
-
 4. The game "Final Critic" has the highest purchase count and the highst total purchase value
 
-If I were recommending a targeted marketing strategy for Heroes of Pymoli, I would suggest to market to males between the ages of 15-29 years old, with focus on top grossing games (example: Final Critic, Oathbreaker, etc.) 
+Heroes of Pymoli Marketing Strategy:
+
+If I were recommending a targeted marketing strategy for Heroes of Pymoli based on analysis results, I would suggest to market to males between the ages of 15-29 years old, with focus on top grossing games (example: Final Critic, Oathbreaker, etc.)
