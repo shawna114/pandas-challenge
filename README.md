@@ -1,6 +1,8 @@
-Heroes of Pymoli Analysis Overview
+Heroes of Pymoli Analysis Overview:
 
-Analysis based on data from an independent gaming company prior to release of their new fantasy game 'Heroes of Pymoli'.
+Analysis is based on data from an independent gaming company prior to release of their new fantasy game 'Heroes of Pymoli'.
+
+Background:
 
 The game is free to play, however players are encouraged to purchase optional items that enhance their playing experience. The task was to generate a report that breaks down the game's purchasing data into meaningful insights for the company.
 
