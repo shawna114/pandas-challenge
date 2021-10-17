@@ -6,7 +6,7 @@ Analysis is based on data from an independent gaming company prior to release of
 
 The game is free to play, however players are encouraged to purchase optional items that enhance their playing experience. The task was to generate a report that breaks down the game's purchasing data into meaningful insights for the company.
 
-## The final report includes the following insights:
+## Data Insights:
 
 ### Player Count
 * Total Number of Players
