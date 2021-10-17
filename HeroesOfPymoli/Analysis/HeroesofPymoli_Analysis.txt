@@ -1,3 +1,5 @@
+Heroes of Pymoli Analysis Insights:<b>
+
 1. Males make more purchases than females (83.6% of purchases)
 
 2. People between the ages of 20-24 make up the largest percent of players (44.8%). People between the ages of 15-29 make up 77% of players.
