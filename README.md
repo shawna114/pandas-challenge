@@ -11,7 +11,7 @@ The game is free to play, however players are encouraged to purchase optional it
 ### Player Count
 * Total Number of Players
 
-#### Purchasing Analysis (Total)
+### Purchasing Analysis (Total)
 * Number of Unique Items
 * Average Purchase Price
 * Total Number of Purchases
